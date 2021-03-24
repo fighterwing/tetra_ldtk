@@ -13,6 +13,7 @@ const SCREEN_HEIGHT: f32 = 576.0;
 pub enum RunState{
     PreRun,
     Run,
+    Test,
 }
 
 pub struct GameState{
