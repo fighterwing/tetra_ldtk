@@ -1,0 +1,8 @@
+[package]
+name = "tetra_ldtk"
+version = "0.1.0"
+authors = ["fighterwing989 <fighterwing89@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+tetra = "0.6.*"
