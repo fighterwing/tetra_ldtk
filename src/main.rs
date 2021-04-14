@@ -17,6 +17,7 @@ pub const SCREEN_WIDTH : f32 = 640.0;
 pub const SCREEN_HEIGHT: f32 = 576.0;
 
 pub const BACKGROUND_ID: &str = "BACKGROUND";
+
 pub const TITLE_SCREEN_ID: &str = "TITLE_SCREEN";
 pub const GAME_SCREEN_ID: &str = "GAME_SCREEN";
 pub const START_TEXT_ID: &str = "START_TEXT";
