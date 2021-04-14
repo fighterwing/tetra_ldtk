@@ -1,0 +1,20 @@
+{ "columns":20,
+ "image":"background.png",
+ "imageheight":96,
+ "imagewidth":160,
+ "margin":0,
+ "name":"base",
+ "properties":[
+        {
+         "name":"gui",
+         "type":"bool",
+         "value":true
+        }],
+ "spacing":0,
+ "tilecount":240,
+ "tiledversion":"1.4.3",
+ "tileheight":8,
+ "tilewidth":8,
+ "type":"tileset",
+ "version":1.4
+}

@@ -1,0 +1,33 @@
+[
+    {
+        "color": "#ffa0a0a4",
+        "name": "Boat",
+        "properties": [
+            {
+                "name": "BATTLESHIP",
+                "type": "bool",
+                "value": false
+            },
+            {
+                "name": "CARRIER",
+                "type": "bool",
+                "value": false
+            },
+            {
+                "name": "DESTROYER",
+                "type": "bool",
+                "value": false
+            },
+            {
+                "name": "PATROL",
+                "type": "bool",
+                "value": false
+            },
+            {
+                "name": "SUBMARINE",
+                "type": "bool",
+                "value": false
+            }
+        ]
+    }
+]
